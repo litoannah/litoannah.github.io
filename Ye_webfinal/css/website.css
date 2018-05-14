@@ -1,0 +1,99 @@
+html {
+                background-image: url(../images/wolf-1836875_1280.jpg);
+			}
+
+			body {
+				width: 960px;
+				margin-right: auto;
+				margin-left: auto;
+				margin-top: 30px;
+				background-color: aliceblue;
+				font-family: 'Titan One', cursive;
+				text-align: center;
+                box-shadow: 0 0 12px 4px rgba(0,0,0,.7);
+	            border: 2px solid #000000;
+			}
+
+			a {
+                font-family: 'Titan One', cursive;
+		      	color: orangered;
+			    font-size: 15px;
+			    letter-spacing: 1px;
+                text-decoration:none;
+                text-transform:capitalize;
+			}
+
+            a:hover {
+                color: #ce000a;
+            }
+
+			article {
+				padding: 0px 100px 0px 100px;  
+			}
+
+			h1 {
+				font-size: 20px;
+                font-family: 'Titan One', cursive;
+				color: orangered;
+                text-align: center;
+                border-top: 2px dashed #686143;
+                border-bottom: 2px dashed #686143;
+                background-color:white;
+			}
+
+			h2 {
+				font-size: 12px;
+                line-height: 16px;
+                font-family: 'Shadows Into Light', cursive;
+				color: white;
+                text-align: center;
+			}
+
+            h3 {
+                font-size: 20px;
+                line-height: 18px;
+                font-family: 'Shadows Into Light', cursive; 
+				color: #000;
+                text-align: center;
+            }
+
+			p {
+				font-size: 15px;
+                line-height: 21px;
+                font-family: 'Titan One', cursive;
+				color: royalblue;
+                text-align: center;
+                padding-top: 16px;
+                padding-bottom: 10px;
+			}
+
+            ul {
+                list-style: none;
+                padding-left: 0px;
+            }
+
+			li {
+                display: inline; 
+            }
+
+            nav {
+                padding: 1px;
+                padding-bottom: 1px;
+                background-color:lightblue;
+            }
+            
+            footer {
+	           height: 45px;
+	           background-color: black;
+	           text-transform: uppercase;
+	           letter-spacing: 3px;
+	           padding-top: 5px;
+            }
+            
+            section {
+               padding: 0px 100px 0px 100px;
+            }
+
+            header {
+                line-height: 0px;
+            }
